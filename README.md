@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi 👋, I'm Gabriel, a Computer Science student at the Technical University of Cluj-Napoca
+## 📫 How to reach me:
+      -Email:gabi.vladoiu1389@gmail.com
+      -LinkedIn:https://www.linkedin.com/in/gabriel-vladoiu-36a27233a/
 <!--
 **VladoiuGabriel/VladoiuGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
